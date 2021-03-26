@@ -1,0 +1,10 @@
+Appartement model in plain Hassaniya 
+  * 3aded libeyout:number 
+  * 3aded douchat:number
+  * veye etage :number 
+  * new3iyit lkira2 :string 
+  * vihe garage wall :boolean
+  * mevrouche walla: boolean
+  * lwilaye:string 
+  * lman6i9a: string
+  * tevassil: string
