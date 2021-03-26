@@ -1,0 +1,12 @@
+Trab model in plain Hassaniya 
+  * lmesa7a: number 
+  * 6oul li 3le chari3: number 
+  * 3ir8 libediye lvat7a 3lih terab: number
+  * vih bouyane :boolean
+  * titire: boolean
+  * tewa9i6: string
+  * si3re lkira:float 
+  * tevassil: string
+
+  
+Trab model in English  

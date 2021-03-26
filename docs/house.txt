@@ -1,0 +1,19 @@
+House model in plain Hassaniya 
+  * messa7a: float
+  * titire: boolean
+  * souware: array[string]
+  * 3aded libeyout:number 
+  * 3aded douchat:number
+  * 3aded guewarige: number
+  * kem min etage
+  * new3iyit lkira2 :string 
+  * vihe garage wall :boolean
+  * mevrouche walla: boolean
+  * lwilaye:string 
+  * kira wall bey3 
+  * lman6i9a: string
+  * kirra2 walla beye3: boolean
+  * si3re :float 
+  * tevassil: string
+
+House model in English  

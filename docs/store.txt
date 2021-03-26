@@ -1,0 +1,12 @@
+Store model in plain Hassaniya 
+  * si3re:number
+  * 6oul: number
+  * l3ir8: number
+  * chari3: string
+  * etage: number
+  * new3iyit lkira2 :string 
+  * lwilaye:string 
+  * lman6i9a: string
+  * tevassil: string
+
+House model in English  
